@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festival", "Assembly-CSharp.csproj", "{BD6316CA-196D-B06D-436B-F7D29EB9A406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festival", "Assembly-CSharp-Editor.csproj", "{DB83D30E-DFF0-173C-FFEE-D273893C95F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{BD6316CA-196D-B06D-436B-F7D29EB9A406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6316CA-196D-B06D-436B-F7D29EB9A406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6316CA-196D-B06D-436B-F7D29EB9A406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6316CA-196D-B06D-436B-F7D29EB9A406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB83D30E-DFF0-173C-FFEE-D273893C95F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB83D30E-DFF0-173C-FFEE-D273893C95F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB83D30E-DFF0-173C-FFEE-D273893C95F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB83D30E-DFF0-173C-FFEE-D273893C95F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
